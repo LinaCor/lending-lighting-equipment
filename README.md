@@ -1,4 +1,5 @@
-https://img.shields.io/badge/HTML-5-red
+![Static Badge](https://img.shields.io/badge/HTML-5-red)
+
 
 
 <h1>Лендинг светооборудования</h1>
